@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476079514820",
+    "project_id": "memento-puzzler",
+    "storage_bucket": "memento-puzzler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476079514820:android:3d0934f534473964ab5591",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476079514820-v5kvn8cbl04a64uucrgn8rrvgg8g49di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqEyn32qS64Tva7Cy9uQ2oqcqwXCHNPus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476079514820-v5kvn8cbl04a64uucrgn8rrvgg8g49di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
